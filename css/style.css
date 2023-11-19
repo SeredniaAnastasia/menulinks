@@ -14,7 +14,7 @@ body{
 .menu {
     display: flex;
     flex-wrap: wrap;
-    gap: 22px;
+    gap: 20px;
     justify-content: center;
 }
 
